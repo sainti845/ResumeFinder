@@ -19,8 +19,7 @@ With ResumeGenie, you can upload resumes in seconds, extract structured insights
 ## ⚡ Get Started in 3 Steps
 1. **Clone the repo**:
     ```bash
-    git clone https://github.com/dhanushholla/resumegenie.git
-    cd ResumeGenie
+    git clone https://github.com/sainti845/ResumeFinder.git
     ```
 
 2. **Install dependencies**:
