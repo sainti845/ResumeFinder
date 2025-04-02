@@ -46,6 +46,6 @@ And you're ready to go! 🚀
 - **Google Gemini AI**: World-class generative AI at your fingertips.
 - **React & Tailwind**: Sleek, responsive UI designed for ease of use.
 
-## 👨‍💻 Built with ❤️ by [Dhanush Holla](https://dhanushholla.vercel.app)
+## 👨‍💻 Built with ❤️ by [Ayush Kapruwan](https://ayush-kapruwan845-portfolio.netlify.app/)
 
 **Transform how you handle resumes—quick, easy, and AI-powered. Try ResumeGenie today!**
