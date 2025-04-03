@@ -245,7 +245,7 @@ const Panel = () => {
             className="mb-4 border border-gray-300 p-2 rounded w-full"
             ref={fileref}
           />
-          <div className="flex space-x-2 mb-4">
+          <div className="flex space-x-2 mb-4 flex-wrap">
             <button
               onClick={handleUpload}
               className={`bg-blue-500 text-white p-2 rounded ${
